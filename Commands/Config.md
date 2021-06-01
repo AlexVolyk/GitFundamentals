@@ -14,7 +14,7 @@ For more information, view the [first time git setup] (https://git-scm.com/book/
 
 ## Resources
 
-- [Git Config Documentation] ([Click me!](https://www.youtube.com/watch?v=HUBNt18RFbo)
+- [Git Config Documentation](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 ---
 

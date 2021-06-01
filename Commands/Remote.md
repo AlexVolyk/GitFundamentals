@@ -26,7 +26,7 @@ git remote remove origin
 
 ## Resources
 
-- [Git Config Documentation] ([Click me!](https://git-scm.com/docs/git-commit)
+- [Git Remote Documentation](https://git-scm.com/docs/git-commit)
 
 ---
 
