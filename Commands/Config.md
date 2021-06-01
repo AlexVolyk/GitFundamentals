@@ -7,7 +7,6 @@ For exmaple, your identity can be set up wuth the commands such as:
 ```
 git config --global user.name "Alex Volyk"
 git config --global user.email alexvolyka@gmail.com
-
 ```
 [Click me!](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
